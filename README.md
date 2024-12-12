@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shore-xplorer
-- 👀 I’m interested in Python and prompt engineering
+- 👀 I’m interested in cybersecurity and prompt engineering
 - 🌱 I’m currently learning Netlock 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jspyle76@gmail.com
